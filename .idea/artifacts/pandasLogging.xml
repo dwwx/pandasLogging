@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pandasLogging">
+    <output-path>$PROJECT_DIR$/out/artifacts/pandasLogging</output-path>
+    <root id="archive" name="pandasLogging.jar">
+      <element id="module-output" name="PandasLogging" />
+    </root>
+  </artifact>
+</component>
